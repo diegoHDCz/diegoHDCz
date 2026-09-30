@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/diegoHDCz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+Mobile;Node.js+%7C+Java+%2F+Spring+%7C+Go;Kotlin+Multiplatform+%7C+Flutter;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%26+Mobile;Arquitetura+%7C+APIs+%7C+Microsservi%C3%A7os;Node.js+%7C+Java+%2F+Spring+%7C+Go;Kotlin+Multiplatform+%7C+Flutter;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,12 +16,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor de software com experiência construindo **APIs, microsserviços e aplicativos mobile** de ponta a ponta. Gosto de explorar diferentes stacks para escolher a ferramenta certa para cada problema — do backend em **Node.js, Java/Spring e Go** até apps nativos e multiplataforma com **Kotlin e Flutter**.
+Sou **desenvolvedor Backend & Mobile** e gosto de pensar o projeto como um todo: da **arquitetura e das APIs** até o **app na mão do usuário**. Minha experiência profissional é em backend, com **Node.js, Java/Spring e Go**, e levo essa base para o mobile com **Kotlin e Flutter**, o que me permite tocar um produto de ponta a ponta com segurança.
 
-- 🔭 Atualmente trabalhando em apps mobile com **Kotlin Multiplatform** e **Flutter**, e em serviços backend com **Go**
-- 🏗️ Interesse em arquitetura: **microsserviços, CQRS, mensageria, API Gateway e OAuth 2.0**
-- 🌱 Estudando continuamente e praticando com projetos próprios
-- 💬 Pode me chamar para falar sobre backend, mobile ou arquitetura de software
+- 🏗️ **Arquitetura:** microsserviços, CQRS, mensageria, API Gateway, OAuth 2.0 e integração entre sistemas
+- ⚙️ **Backend:** APIs REST, autenticação, cache com Redis e serviços de alta performance em Go
+- 📱 **Mobile:** apps com Kotlin Multiplatform e Flutter, consumindo APIs que eu mesmo desenho
+- 🔄 **Ponta a ponta:** consigo levar uma ideia do modelo de dados até o app publicado
 - 📫 Aberto a oportunidades — me encontre no LinkedIn ou por e-mail
 
 ---
@@ -53,7 +53,7 @@ Sou desenvolvedor de software com experiência construindo **APIs, microsserviç
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-**Frontend & Mobile**
+**Mobile & Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -72,8 +72,8 @@ Sou desenvolvedor de software com experiência construindo **APIs, microsserviç
 |---|---|---|
 | [**ajudafio**](https://github.com/diegoHDCz/ajudafio) | _Descreva em uma frase o problema que o projeto resolve_ | Go |
 | [**Travelu-mobile**](https://github.com/diegoHDCz/Travelu-mobile) | _App mobile de viagens — descreva as principais features_ | Kotlin |
-| [**terapeuta_assistente_mobile**](https://github.com/diegoHDCz/terapeuta_assistente_mobile) | _App de apoio para terapeutas — descreva o objetivo_ | Flutter / Dart |
 | [**CQRS-Book-Store**](https://github.com/diegoHDCz/CQRS-Book-Store) | Livraria implementando o padrão CQRS | Java / Spring |
+| [**terapeuta_assistente_mobile**](https://github.com/diegoHDCz/terapeuta_assistente_mobile) | _App de apoio para terapeutas — descreva o objetivo_ | Flutter / Dart |
 | [**golangGateway**](https://github.com/diegoHDCz/golangGateway) | API Gateway escrito em Go | Go |
 | [**restouath2**](https://github.com/diegoHDCz/restouath2) | Novo REST client do Spring com autenticação OAuth 2.0 | Java / Spring |
 
